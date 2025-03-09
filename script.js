@@ -134,4 +134,4 @@ const observer = new IntersectionObserver((entries) => {
 
 document.querySelectorAll('.progress').forEach(progress => {
     observer.observe(progress);
-}); 
+});  
